@@ -54,22 +54,22 @@ function App() {
             
             <div className="space-y-6 text-gray-400 text-base md:text-lg leading-relaxed italic border-l-4 border-white/10 pl-8 mx-auto lg:mx-0">
               <p>
-                Quando criança era só, vivia na solidão,<br/>
-                Guardava no seu peito um imenso coração.<br/>
-                A vida veio dura, sem tutorial pra guiar,<br/>
-                Com quedas, feridas, lições pra ensinar.
+                Desde pequeno, um explorador de um grande coração,<br/>
+                Sempre pronto para a próxima aventura na missão.<br/>
+                A vida trouxe caminhos, sem manual para guiar,<br/>
+                Mas cada nova fase foi chance de se superar.
               </p>
               <p>
-                Perdeu algumas amizades no meio da missão,<br/>
-                No amor conheceu a alegria e também a decepção.<br/>
-                Teve fases difíceis, chefões pra enfrentar,<br/>
-                Momentos em que pensou em parar de jogar.
+                Vive a vida intensamente, sem nada a guardar,<br/>
+                Sabe que a felicidade está no simples a celebrar.<br/>
+                Transforma o agora em raro valor,<br/>
+                Coleciona conquistas com entrega e amor.
               </p>
               <p>
-                Mas nunca foi game over, decidiu continuar,<br/>
-                Juntou XP suficiente pra se refazer, e se curar.<br/>
-                Upou coragem, fé e a própria visão,<br/>
-                E desbloqueou em si mesmo uma nova versão.
+                Nunca foi game over, sempre soube continuar,<br/>
+                Ganhando XP a cada passo, aprendendo a brilhar.<br/>
+                Upou coragem, fé e expandiu a própria visão,<br/>
+                Desbloqueando em si mesmo sua melhor versão.
               </p>
               <p>
                 O jogo da vida é difícil de ganhar,<br/>
