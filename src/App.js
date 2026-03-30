@@ -54,8 +54,8 @@ function App() {
             
             <div className="space-y-6 text-gray-400 text-base md:text-lg leading-relaxed italic border-l-4 border-white/10 pl-8 mx-auto lg:mx-0">
               <p>
-                Desde pequeno, um explorador de um grande coração,<br/>
-                Sempre pronto para a próxima aventura na missão.<br/>
+                Desde pequeno, um guerreiro, com um grande coração,<br/>
+                Sempre preparado para a próxima missão.<br/>
                 A vida trouxe caminhos, sem manual para guiar,<br/>
                 Mas cada nova fase foi chance de se superar.
               </p>
