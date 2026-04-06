@@ -198,7 +198,7 @@ function App() {
             <div className="rounded-xl overflow-hidden shadow-lg bg-black/20">
                <iframe 
                 style={{ borderRadius: '12px' }} 
-                src="https://open.spotify.com/embed/playlist/37i9dQZF1DXcBWIGoYBM3M" 
+                src="https://open.spotify.com/embed/playlist/5jNOT7DdaJgO0qhHtPyyVm?utm_source=generator&theme=0" 
                 width="100%" 
                 height="152" 
                 frameBorder="0" 
